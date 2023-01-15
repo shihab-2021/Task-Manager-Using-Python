@@ -14,4 +14,6 @@ _**7\. EXIT**_
 
 You have to enter your choice, then the rest will come one by one.
 
+See the <a href="https://drive.google.com/file/d/1fzRVH20fIJG-4vZwWqn1rjqZiEeo_azk/view?usp=sharing">demo video</a> for better understand.
+
 Thank you.
