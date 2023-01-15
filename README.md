@@ -2,7 +2,7 @@
 
 Small task management project by using _**python.**_
 
-After running the project, this will show you:
+After run TaskManager.py file, this will show you:
 
 _**1\. ADD NEW TASK**_  
 _**2\. SHOW ALL TASK**_  
