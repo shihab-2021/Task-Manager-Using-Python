@@ -1,4 +1,4 @@
-# Task manger project by Python
+# Task manager project by Python
 
 Small task management project by using _**python.**_
 
